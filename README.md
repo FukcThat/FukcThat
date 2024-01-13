@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonharbers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Barely familiar with the following tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 <!--
