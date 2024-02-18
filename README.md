@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fukcthat&layout=donut&theme=date_night&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fukcthat&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Barely familiar with the following tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
