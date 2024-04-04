@@ -1,4 +1,4 @@
-### 👋 Hey!
+### 👋 Hi!
 
 - 🔭 I’m currently working on the Odin Project
 - ⚡ Fun fact: I dont know what I'm doing, cheers!
