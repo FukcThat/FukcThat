@@ -1,7 +1,7 @@
 ### 👋 Hi!
 
 - 🔭 I’m currently working on the Odin Project
-- ⚡ Fun fact: I dont know what I'm doing, cheers!
+- ⚡ All issues, no hope.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FukcThat&theme=date-night&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
