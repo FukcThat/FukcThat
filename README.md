@@ -1,4 +1,4 @@
-### 👋 Hi,
+### 👋 Hi!
 
 - 🔭 I’m currently working on the Odin Project
 - ⚡ All issues, no hope.
